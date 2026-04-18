@@ -102,7 +102,7 @@ python plc_simulator.py
 
 ## 👨‍💻 Author
 
-Azharuddin Alam
+Mohammad Tanveer
 
 ## 📜 License
 
